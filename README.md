@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NatalieCheah
-- 👀 I’m interested in blockchain, crypto projects, algorithmic trading (conventional stuff like UST Futures or Crypto)
+- 👀 I’m interested in blockchain, crypto projects and building/ refining model for algorithmic trading (conventional stuff like UST Futures or Crypto)
 - 🌱 I’m currently learning about blockchain, python, data science, the world and myself
 - 💞️ I’m looking to collaborate on exciting blockchain projects
 - 📫 How to reach me : natalie.huiyin@gmail.com
